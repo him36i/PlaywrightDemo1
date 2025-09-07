@@ -19,4 +19,5 @@ class CBLogin{
 
     }
 }
+
 export default CBLogin;
